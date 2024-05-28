@@ -20,9 +20,9 @@
 
 <h3> Connect With me</h3>
 
-<a href="https://instagram.com/_.mayurkolhe_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.mayurkolhe_16" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayurkolhe16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayurkolhe16" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mayur-kolhe-18ba312b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-kolhe-18ba312b4" height="30" width="40" /></a>
+<a href="https://instagram.com/_.mayurkolhe_16" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://www.codechef.com/users/mayurkolhe16" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/></a>
+<a href="https://www.linkedin.com/in/mayur-kolhe-18ba312b4/" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
