@@ -31,3 +31,11 @@
 <p align="left"><a href="https://spaceship.roadtocode.org/docs/category/css/" target="_blank" rel="noreferrer"> <img src="icons8-css.svg" alt="css3" width="40" height="40"/> 
 <a href="https://spaceship.roadtocode.org/docs/category/html/" target="_blank" rel="noreferrer"> <img src="icons8-html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://spaceship.roadtocode.org/docs/category/python-programming/" target="_blank" rel="noreferrer"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a> 
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayurkolhe16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mayurkolhe16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayurkolhe16&show_icons=true&locale=en&theme=tokyonight" alt="Mayurkolhe16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurkolhe16&&theme=tokyonight" alt="Mayurkolhe16" /></p>
