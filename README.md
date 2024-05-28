@@ -1,4 +1,3 @@
-[![Coderback](/CODERBACK.jpg)](https://github.com/Mayurkolhe16/Mayurkolhe16)
 <h1 align="center">I'm Mayur Kolhe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
