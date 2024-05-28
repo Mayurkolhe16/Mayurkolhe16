@@ -4,10 +4,6 @@
 <img align="right" alt="Coding" width="300" src="coder.jpg">
 
 
-<br>
-
-
-
 - 🔭 I’m currently working on [BookSwapCorner](https://bookswapcorner.netlify.app/)
 
 - 🌱 I’m currently learning **Fullstack Development**
