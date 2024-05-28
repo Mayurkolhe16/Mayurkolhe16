@@ -32,7 +32,3 @@
 <a href="https://spaceship.roadtocode.org/docs/category/html/" target="_blank" rel="noreferrer"> <img src="icons8-html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://spaceship.roadtocode.org/docs/category/python-programming/" target="_blank" rel="noreferrer"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a> 
 
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayurkolhe16&show_icons=true&locale=en&theme=tokyonight" alt="Mayurkolhe16" /></p>
-
