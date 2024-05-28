@@ -2,7 +2,7 @@
 <h1 align="center">I'm Mayur Kolhe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="200" src="coder.jpg">
+<img align="right" alt="Coding" width="300" src="coder.jpg">
 
 
 
