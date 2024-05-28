@@ -21,6 +21,8 @@
 <p align="left"> 
 
 <img src="icons8-css.svg" alt="css3" width="40" height="40"/> 
-<img src="icons8-html.svg" alt="html5" width="40" height="40"/> </a> 
-<img src="icons8-python.svg" alt="python" width="40" height="40"/> </a> 
+<img src="icons8-html.svg" alt="html5" width="40" height="40"/> 
+<img src="icons8-python.svg" alt="python" width="40" height="40"/>
+
+</p>
 
