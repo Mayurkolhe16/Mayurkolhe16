@@ -24,8 +24,6 @@
 <a href="https://www.codechef.com/users/mayurkolhe16" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/></a>
 <a href="https://www.linkedin.com/in/mayur-kolhe-18ba312b4/" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 
-<a hred="https://wa.me/qr/W7CGIBX5G5LNI1"><img align="center"  width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
