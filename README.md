@@ -16,15 +16,6 @@
 
 - 📫 How to reach me **ramchandrakolhe6@gmail.com**
 ---
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.instagram.com/_.mayurkolhe_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.mayurkolhe_16" height="30" width="40" /></a>
-<a href="https://x.com/mayur_kolhe_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayur_kolhe_16" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mayur-kolhe-18ba312b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-kolhe-18ba312b4" height="30" width="40" /></a>
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"><a href="https://spaceship.roadtocode.org/docs/category/css/" target="_blank" rel="noreferrer"> <img src="icons8-css.svg" alt="css3" width="40" height="40"/> 
