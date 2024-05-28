@@ -27,3 +27,7 @@
 
 ---
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="left"><a href="https://spaceship.roadtocode.org/docs/category/css/" target="_blank" rel="noreferrer"> <img src="icons8-css.svg" alt="css3" width="40" height="40"/> 
+<a href="https://spaceship.roadtocode.org/docs/category/html/" target="_blank" rel="noreferrer"> <img src="icons8-html.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://spaceship.roadtocode.org/docs/category/python-programming/" target="_blank" rel="noreferrer"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a> 
