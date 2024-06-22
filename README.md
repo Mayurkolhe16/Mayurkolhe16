@@ -36,8 +36,7 @@
 <img src="icons8-adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
-<h2 align="left"> Thank You 🙏🏼 </h2>
+ <h2  align="left"> Thank You 🙏 </h2>
 
-
-#### ⭐️ From [Mayurkolhe](https://github.com/Mayurkolhe16) 
+⭐From [Mayur Kolhe](https://github.com/Mayurkolhe16) 
 
