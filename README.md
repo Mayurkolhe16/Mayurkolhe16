@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [Career Crossroads](https://careercrossroads.netlify.app/)
+- 🔭 I’m currently working on <b>[Career Crossroads](https://careercrossroads.netlify.app/)</b>
 
 - 🌱 I’m currently learning **Fullstack Development**
 
