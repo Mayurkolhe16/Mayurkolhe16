@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on [BookSwapCorner](https://bookswapcorner.netlify.app/)
+- 🔭 I’m currently working on [Career Crossroads](https://careercrossroads.netlify.app/)
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML,CSS And Javascript**
 
 - 📫 How to reach me **ramchandrakolhe6@gmail.com**
 
@@ -29,9 +29,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-
-<img src="icons8-css.svg" alt="css3" width="40" height="40"/> 
 <img src="icons8-html.svg" alt="html5" width="40" height="40"/> 
+<img src="icons8-css.svg" alt="css3" width="40" height="40"/> 
+<img src="./icons8-javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="icons8-python.svg" alt="python" width="40" height="40"/>
 <img src="icons8-adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
 </p>
