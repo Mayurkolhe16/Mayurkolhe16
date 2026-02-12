@@ -22,11 +22,29 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 🔥 GitHub Stats  
 
-## 🔥 GitHub Stats
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayurkolhe16&show_icons=true&theme=radical&count_private=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkolhe16&layout=compact&theme=radical)
+### 🔥 Streak Stats  
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img title="🔥 Get streak stats for your profile"
+       alt="Mayurkolhe16 streak"
+       src="https://streak-stats.demolab.com/?user=Mayurkolhe16&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+</a>
+
+<br/>
+<br/>
+
+### 📈 Activity Graph  
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Mayurkolhe16 Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph/?username=Mayurkolhe16&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
