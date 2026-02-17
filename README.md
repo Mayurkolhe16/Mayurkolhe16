@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Mayur Kolhe</h1>
 <h3 align="center">A Passionate Full Stack Developer, Freelancer, and Tech Creator 🚀</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mayurkolhe16&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur" /> </p>
+
+
 
 - 🌐 Currently Working On [Learnify](https://github.com/Mayurkolhe16/Learnify)
 - 📚 First Year MCS Student SPPU
